@@ -1,0 +1,7 @@
+{
+  "name": "CursoRactYIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
